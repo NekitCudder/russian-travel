@@ -1,6 +1,6 @@
-.lead {
+.cover {
+  max-width: 1184px;
   display: flex;
   flex-direction: column;
-  max-width: 984px;
   margin: 0 auto 92px;
 }
