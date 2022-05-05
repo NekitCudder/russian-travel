@@ -18,7 +18,8 @@
   .footer__link {
     margin-bottom: 32px;
   }
-  .footer__link:last-child{
+
+  .footer__link:last-child {
     margin-bottom: 48px;
   }
 }

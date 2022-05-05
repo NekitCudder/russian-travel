@@ -1,5 +1,5 @@
 .cover__background {
-  background-image: url(/images/cover-trains.jpg);
+  background-image: url(../../../images/cover-trains.jpg);
   position: relative;
   height: 740px;
 }
