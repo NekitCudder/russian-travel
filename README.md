@@ -10,4 +10,4 @@
 ## Планы по доработке
 - добавить несколько других разрешений
 
-## [Ссылка на проект] (https://nekitcudder.github.io/russian-travel/)
+[Ссылка на проект] (https://nekitcudder.github.io/russian-travel/)
