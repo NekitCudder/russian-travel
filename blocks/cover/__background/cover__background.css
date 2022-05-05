@@ -14,6 +14,7 @@
   top: 0;
   bottom: 0;
 }
+
 .cover__background:hover::before {
   content: '';
   background-color: #2A2C2F;
@@ -24,4 +25,25 @@
   right: 0;
   top: 0;
   bottom: 0;
+}
+
+@media screen and (max-width:1024px) {
+  .cover__background {
+    height: 640px;
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .cover__background {
+    height: 480px;
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .cover__background {
+    height: 200px;
+    background-size: cover;
+  }
 }

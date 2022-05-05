@@ -2,5 +2,20 @@
   max-width: 1184px;
   display: flex;
   flex-direction: column;
-  margin: 0 auto 92px;
+  margin: 0 48px 92px;
+}
+@media screen and (max-width:1024px) {
+  .cover {
+    margin: 0 0 92px;
+  }
+}
+@media screen and (max-width:768px) {
+  .cover {
+    margin: 0 0 88px;
+  }
+}
+@media screen and (max-width:320px) {
+  .cover {
+    margin: 0 0 64px;
+  }
 }

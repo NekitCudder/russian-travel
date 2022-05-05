@@ -1,6 +1,5 @@
 .lead__image-polka {
-  max-width: 984px;
-  max-height: 615px;
+  width: 100%;
   margin: auto;
   margin-bottom: 8px;
 }

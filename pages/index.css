@@ -15,6 +15,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-number/intro__list-number.css);
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/place/place.css);
 @import url(../blocks/places/place/__title/place__title.css);
