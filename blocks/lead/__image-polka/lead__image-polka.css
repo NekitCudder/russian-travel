@@ -1,4 +1,17 @@
 .lead__image-polka {
   width: 100%;
-  margin-bottom: 8px;
+}
+
+@media screen and (max-width:768px) {
+  .lead__image-polka {
+    min-width: 100vw;
+    margin-left: -24px;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .lead__image-polka {
+    min-width: 100vw;
+    margin-left: -16px;
+  }
 }

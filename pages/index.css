@@ -3,8 +3,6 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/resolution-1024/resolution-1024.css);
-@import url(../blocks/resolution-1280/resolution-1280.css);
-
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -35,6 +33,7 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
