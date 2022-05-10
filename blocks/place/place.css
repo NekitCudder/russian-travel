@@ -24,6 +24,11 @@
     padding-bottom: 73px;
   }
 }
+@media screen and (max-width:675px) {
+  .place {
+    grid-template-columns: 1fr;
+  }
+}
 
 @media screen and (max-width:320px) {
   .place {

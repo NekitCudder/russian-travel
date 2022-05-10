@@ -2,8 +2,6 @@
 @import url(../fonts/Inter-Web/inter.css);
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/resolution-1024/resolution-1024.css);
-
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
