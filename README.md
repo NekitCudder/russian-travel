@@ -9,4 +9,5 @@
 - Grid Layout
 - методология БЭМ
 
+---
 [Ссылка на проект](https://nekitcudder.github.io/russian-travel/)
